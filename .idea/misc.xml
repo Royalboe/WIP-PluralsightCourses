@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/ALL/app/src/main/res/layout/content_note_list.xml" value="0.221025641025641" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/ALL/app/src/main/res/layout/activity_note_keeper.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/ALL/app/src/main/res/layout/app_bar_note_keeper.xml" value="0.221025641025641" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/ALL/app/src/main/res/layout/content_note_keeper.xml" value="0.221025641025641" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/ALL/app/src/main/res/layout/content_note_list.xml" value="0.33" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/ALL/app/src/main/res/layout/fragment_gallery.xml" value="0.221025641025641" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/ALL/app/src/main/res/layout/fragment_home.xml" value="0.221025641025641" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/ALL/app/src/main/res/layout/fragment_slideshow.xml" value="0.221025641025641" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/ALL/app/src/main/res/layout/item_note_list.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/ALL/app/src/main/res/layout/nav_header_note_keeper.xml" value="0.221025641025641" />
         <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/ALL/app/src/main/res/menu/menu_main.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/NoteKeeper3/app/src/main/res/layout/activity_main.xml" value="0.2203125" />
         <entry key="..\:/Users/Mrs Salami Modupe PC/AndroidStudioProjects/NoteKeeper3/app/src/main/res/layout/activity_note_list.xml" value="0.2203125" />
